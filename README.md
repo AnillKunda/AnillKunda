@@ -71,6 +71,6 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=anilkundadev">
+    <img src="https://komarev.com/ghpvc/?username=AnilKunda">
 </a>
-<a href="https://github.com/anilkundadev?tab=followers"><img src="https://img.shields.io/github/followers/anilkundadev?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/AnillKunda?tab=followers"><img src="https://img.shields.io/github/followers/AnillKunda?label=Followers&style=social" alt="GitHub Badge"></a>
